@@ -1,4 +1,4 @@
-https://www.conventionalcommits.org/en/v1.0.0/
+how to do good commits: https://www.conventionalcommits.org/en/v1.0.0/
 
 # RandomUserApiAngular
 
