@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-list {
+  display: flex;
+  list-style: none;
+}
+
+.nav-list a {
+  padding: 15px 20px;
+}
